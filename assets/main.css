@@ -1,1 +1,20 @@
-body{margin-top:80px;font-family:"Varela Round",sans-serif}.container{position:relative;width:800px;margin:0 auto;padding:20px;background:#f6f6f6}.container .title{text-align:center;color:#242424;font-weight:700}.container p{color:#666060}
+body {
+    margin-top: 80px;
+    font-family: "Varela Round", sans-serif
+    background: #ffb3ff
+}
+.container {
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f6f6f6
+}
+.container .title {
+    text-align: center;
+    color: #242424;
+    font-weight: 700
+}
+.container p {
+    color: #666060
+}

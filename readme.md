@@ -21,7 +21,7 @@ gulp.task('sayHello', function() {
 
 ## Run  Gulp
 ```
-glup  NameTask
+gulp  NameTask
 ```
 ## Code
 ```

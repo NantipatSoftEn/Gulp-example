@@ -1,8 +1,10 @@
 'use strict';
 
-(function () {
+(function() {
+  var a = 2;
+  console.log(a);
   console.log('Hello World');
-
+  console.console.log("fuckinghead");
   var date = new Date();
   var D = date.getDate();
   var M = date.getMonth();
