@@ -46,7 +46,7 @@ gulp.task('default', ['watch']);
 gulp.task('all', ['css', 'js', 'watch']);
 ```
 
-#[purifycss](https://github.com/purifycss/purifycss)
+## [purifycss](https://github.com/purifycss/purifycss)
 clean Unnecessary CSS
 
 ##install
