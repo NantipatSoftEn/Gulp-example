@@ -49,11 +49,11 @@ gulp.task('all', ['css', 'js', 'watch']);
 ## [purifycss](https://github.com/purifycss/purifycss)
 clean Unnecessary CSS
 
-##install
+## install
 ```bash
 npm install -g purify-css
 ```
-##used
+## used
 ```bash
 purifycss ./bootstrap.min.css index.html -o index.css
 ```
@@ -62,7 +62,7 @@ purifycss ./bootstrap.min.css index.html -o index.css
 purifycss ./bootstrap.min.css index.html -o index.css -m
 ```
 
-### Potential reduction
+## Potential reduction
 
 * [Bootstrap](https://github.com/twbs/bootstrap) file: ~140k
 * App using ~40% of selectors.
